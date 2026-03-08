@@ -32,6 +32,7 @@ Current public work:
 
 ## Links
 
+- Website: [`easydeploydev.github.io`](https://easydeploydev.github.io/)
 - Organization: [`EasyDeployDev`](https://github.com/EasyDeployDev)
 - Repository: [`EasyDeployDev/bnfn`](https://github.com/EasyDeployDev/bnfn)
 - Issues: [`EasyDeployDev/bnfn/issues`](https://github.com/EasyDeployDev/bnfn/issues)
