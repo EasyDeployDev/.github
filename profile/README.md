@@ -30,7 +30,7 @@ Bun-native HTTP client with an Axios-shaped API and a required Zig acceleration 
 ## Community
 
 - Discussions: [`EasyDeployDev/bnfn/discussions`](https://github.com/EasyDeployDev/bnfn/discussions)
-- Discord status: [`easydeploydev.github.io/discord.html`](https://easydeploydev.github.io/discord.html)
+- Discord: [`discord.gg/BFuCjbRB`](https://discord.gg/BFuCjbRB)
 
 ## Links
 
