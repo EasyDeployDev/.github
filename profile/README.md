@@ -4,7 +4,7 @@ Focused developer tooling under [`EasyDeployDev`](https://github.com/EasyDeployD
 
 ## What We’re Building
 
-EasyDeploy is focused on small, sharp tools that optimize real developer workflows without adding unnecessary layers.
+EasyDeploy builds small, single-purpose libraries that do one thing well and stay easy to understand.
 
 ## Public Surfaces
 
